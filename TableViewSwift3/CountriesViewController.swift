@@ -6,6 +6,12 @@
 //  Copyright © 2017 Ethan Halprin. All rights reserved.
 //
 
+
+//
+// Flags image are free to use for personal and commercial projects and were taken from:
+//
+// http://365icon.com/icon-styles/ethnic/classic2/
+//
 import UIKit
 
 //
